@@ -1,0 +1,13 @@
+.vscode
+build
+bin
+lib
+data
+CMakeFiles
+atomic_configure
+catkin
+catkin_generated
+devel
+gtest
+CMakeCache.txt
+cmake_install.cmake
